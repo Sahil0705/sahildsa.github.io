@@ -3,8 +3,7 @@
 <head>
 <style>
 h1 {
-  animation: color-change 2s infinite;
-}
+  animation: color-change 2s infi
 
 .exception
 {
